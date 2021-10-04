@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C879752C-9604-E2ED-3BA2-77B1D95699B3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.render-pipelines.universal@11.0.0/Shaders/Lit.shader">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.render-pipelines.universal@11.0.0/Shaders/Lit.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b96c2a51-92d9-4a97-b448-801a0935594b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
